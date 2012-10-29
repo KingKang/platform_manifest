@@ -11,6 +11,9 @@
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod/"
            review="review.cyanogenmod.com" />
+           
+  <remote  name="DAGr8"
+           fetch="https://github.com/DAGr8/" />
 
   <default remote="aosp"
            sync-j="4" />
